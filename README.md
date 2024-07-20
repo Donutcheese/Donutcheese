@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Donutcheese，you can call me David Du
 - 👀 I’m interested in Ai & ml
 - 🌱 I’m currently learning computer sience at ANU
-- 💞️ I’m looking to collaborate on lstm models and mobile software developing
+- 💞️ I’m looking to collaborate on transfer learnign & deep learning and mobile software developing
 - 📫 I just finished an internship in ANU working, mainly focus on transfer learning and integrating models into flutter mobile app
 
 <!---
