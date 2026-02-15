@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Donutcheese，you can call me David Du
-- 👀 I’m interested in Ai & ml
-- 🌱 I’m currently learning computer sience at ANU
-- 💞️ I’m looking to collaborate on transfer learnign & deep learning and mobile software developing
-- 📫 I just finished an internship in ANU working, mainly focus on transfer learning and integrating models into flutter mobile app
+- 👀 I guraduated from the Australian National University
+- 💞️ I can collaborate on transfer learnign & deep learning and mobile software developing
+- 📫 I'm interested in the application of AI models in the industrial sector, particularly in electrical engineering, especially when combined with web or mobile applications.
 
 <!---
 Donutcheese/Donutcheese is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
